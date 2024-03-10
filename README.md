@@ -12,6 +12,9 @@ A RP2040-based board, similar to [Raspberry Pi Pico H](https://www.raspberrypi.c
 
 **DISCLAIMER**: This board was designed as an exercise. It has not (yet) been manufactured and tested. Also, **I don't know what I'm doing**, this is like the third PCB I've designed. Don't use it lol.
 
+| <a href="https://github.com/radex/RadPie2040/raw/main/assets/render.png"><img src="https://github.com/radex/RadPie2040/raw/main/assets/render.png" alt="Top down render of the board" width="300" /></a> | <a href="https://github.com/radex/RadPie2040/raw/main/assets/routing.png"><img src="https://github.com/radex/RadPie2040/raw/main/assets/routing.png" alt="PCB routing" width="300" /></a> | <a href="https://github.com/radex/RadPie2040/raw/main/assets/schematic.png"><img src="https://github.com/radex/RadPie2040/raw/main/assets/schematic.png" alt="Schematics" width="650" /></a> |
+| -- | -- | -- |
+
 ## Credits and learning resources
 
 This project is a fork of [Sleepdealr/RP2040-designguide](https://github.com/Sleepdealr/RP2040-designguide). It bears little resemblance to the original, but it was a great starting point (and still contains some pieces of it).
