@@ -645,7 +645,7 @@
       "filter_string": "",
       "group_symbols": true,
       "name": "",
-      "sort_asc": true,
+      "sort_asc": false,
       "sort_field": "Reference"
     },
     "connection_grid_size": 50.0,
@@ -701,6 +701,14 @@
     [
       "ba62e47e-9e07-4e97-ab08-24b670d50f97",
       "Root"
+    ],
+    [
+      "31c1c34e-d5d5-4e65-a92c-f1b38f0e4a56",
+      "RP2040"
+    ],
+    [
+      "a7279dbb-fa7d-4fe1-8e3b-1875bbe4e3c4",
+      "USBC"
     ]
   ],
   "text_variables": {}

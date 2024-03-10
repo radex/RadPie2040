@@ -8,7 +8,7 @@ A RP2040-based board, similar to [Raspberry Pi Pico H](https://www.raspberrypi.c
 - USB-C connector
 - BOOTSEL *and* RESET buttons
 - **JLCPCB Assembly optimized**, 2-layer board
-- KiCad 8 template, easily modifiable to your project needs
+- KiCad 8 template, hierarchical schematic
 
 **DISCLAIMER**: This board was designed as an exercise. It has not (yet) been manufactured and tested. Also, **I don't know what I'm doing**, this is like the third PCB I've designed. Don't use it lol.
 
